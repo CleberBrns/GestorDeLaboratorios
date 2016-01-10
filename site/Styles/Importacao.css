@@ -1,0 +1,131 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+}
+
+.pagina {
+    width: 90%;
+    height: 100%;
+    font-family: Arial;
+    margin: 30px auto;
+    background: #f8f8f8;
+    padding: 20px 20px 20px;
+    border: 1px solid #EEE;    
+}
+
+.tamanhoFonte
+{
+    font-size: 16px;
+}
+
+#divConsulta
+{
+    font-size: 10px;
+}
+
+.rodape {
+    width: 100%;
+    font-family: Arial;
+    border: 1px solid #EEE;
+}
+
+.pagina > div {
+    margin-bottom: 10px;
+}
+
+.pagina div input {
+    border: 1px solid #DDD;
+    padding: 5px 0;
+}
+
+.pagina .cripto td {
+    width: 50%;
+}
+
+.pagina .cripto td input {
+        margin: 5px;
+}
+
+.pagina .contBt {
+    text-align: center;
+    margin: 10px;
+}
+
+.pagina .contBt .bt {
+        
+        border: 1px solid #DDD;
+        width: 25%;
+        height: 44px;
+        padding: 10px;
+}
+
+.contBt .bt {
+    font-size: 18px;
+}
+
+.btAcoes .contBtAcoes {
+    border: 1px solid #DDD;
+    width: 60%;
+    padding: 10px;
+}
+
+.pagina .contBt .bt:hover {
+    background: #555;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.none {
+    display: none;
+}
+
+.confirmaInclusao {
+    font-size: 14px;
+}
+
+.insercoes {
+    text-align: center;
+    font-weight: bold; 
+}
+
+.amostrasPrateleira {
+    width: 100%;
+    border: 1px solid #EEE;
+}
+
+    .amostrasPrateleira td {
+        font-size: 14px;
+        padding:5px;
+    }
+
+.amostrasGrupo:hover {
+    background: #EEE;
+}
+
+.amostrasGrupo td {
+    /*font-size: 14px;*/
+    font-weight: normal;
+    padding: 5px;
+    border-collapse: collapse;
+    border: 1px solid #DDD;
+}
+
+.clear {
+    clear: both;
+}
+.lblCamara
+{
+     font-size: 14px;
+}
+.divAssinaturas {
+    text-align: center;
+}
+
+.assinaturas {
+    border-style: solid;
+    border-bottom-width: 3px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+    width: 150px;
+}

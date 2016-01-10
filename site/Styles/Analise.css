@@ -1,0 +1,78 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+}
+
+.pagina {
+    width: 60%;
+    height: 30%;
+    font-family: Arial;
+    margin: 40px auto;
+    background: #f8f8f8;
+    padding: 20px 20px 20px;
+    border: 1px solid #EEE;
+    font-size: 16px;
+}
+
+.rodape {
+    margin-top: 30px;
+    width: 100%;
+    font-family: Arial;
+    border: 1px solid #EEE;
+}
+
+.pagina > div {
+    margin-bottom: 10px;
+}
+
+.pagina div input {
+    border: 1px solid #DDD;
+    padding: 5px 0;
+}
+
+.pagina .cripto td {
+    width: 50%;
+}
+
+    .pagina .cripto td input {
+        margin: 5px;
+    }
+
+.pagina .contBt {
+    text-align: center;
+    margin: 10px;
+}
+
+    .pagina .contBt .bt {
+        font-size: 18px;
+        border: 1px solid #DDD;
+        width: 25%;
+        height: 44px;
+        padding: 10px;
+    }
+
+.btAcoes .contBtAcoes {
+    border: 1px solid #DDD;
+    width: 60%;
+    padding: 10px;
+}
+
+.pagina .contBt .bt:hover {
+    background: #555;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.none {
+    display: none;
+}
+
+.confirmaInclusao {
+    font-size: 14px;
+}
+
+.insercoes {
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+}

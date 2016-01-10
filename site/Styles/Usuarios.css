@@ -1,0 +1,213 @@
+﻿*
+{
+    padding: 0;
+    margin: 0px 0 0 0;
+}
+body
+{
+    font-family: Arial, Tahoma, Verdana, Arial, Helvetica, sans-serif;
+    background: #FFFFFF;
+}
+.pagina
+{
+    width: 600px;
+    font-family: Arial;
+    margin: 40px auto;
+    background: #f8f8f8;
+    padding: 20px 20px 0;
+    border: 1px solid #EEE;
+    font-size: 12px;
+}
+.header
+{
+    background: #d8d8d8;
+    border: 1px solid #CCCCCC;
+    padding: 5px 0 5px 10px;
+    color: #333333;
+    font-size: 14px;
+    font-weight: bold;
+}
+.titRadio
+{
+    font-size: 12px;
+}
+.conteudo
+{
+    padding: 10px;
+    height: 250px;
+    overflow: auto;
+}
+.btRodape
+{
+    padding: 5px;
+    font-size: 12px;
+    color: #333333;
+    text-decoration: none;
+    background: #CCCCCC;
+    border: 1px solid #BBBBBB;
+    font-weight: bolder;
+}
+.btRodape:hover
+{
+    color: #FFFFFF;
+    text-decoration: none;
+    background: #7c7c7c;
+    border: 1px solid #6c6c6c;
+}
+.conteudo span
+{
+    font-size: 14px;
+    font-weight: bold;
+}
+.conteudo a
+{
+    font-size: 14px;
+    font-weight: bold;
+    color: #333333;
+}
+.conteudo a:hover
+{
+    color: #000000;
+}
+.traco
+{
+    font-weight: normal !important;
+    letter-spacing: -1.2px;
+    margin-left: -1px;
+}
+.escolhaPre
+{
+    overflow: auto;
+}
+.divCadastros
+{
+    margin-left: 380px;
+}
+.none
+{
+    display: none;
+}
+
+.pnlBotoesEscolha
+{
+    padding: 10px;
+    position: absolute;
+    left: 110px;
+    top: 145px;
+}
+.pnlUploads
+{
+    padding: 10px;
+    position: absolute;
+    left: 25px;
+    top: 90px;
+}
+.BotoesAcao
+{
+    padding: 10px;
+    position: absolute;
+    left: 230px;
+    top: 270px;
+    margin-bottom: 10px;
+}
+.titulo
+{
+    color: #333333;
+    font-size: 12px;
+    font-weight: bold;
+}
+.pnlErro
+{
+    width: 300px;
+    font-size: 10px;
+    margin-top: 90px;
+    margin-left: 15px;
+}
+
+#pnlUsuarios
+{
+    height: 300px;
+    width: 300px;
+    overflow: auto;
+    margin: 5px;
+    border: 1px solid #DDDDDD;
+    background: #FFF;
+    border-radius: 5px;
+}
+.rblUsuarios td
+{
+    font-size: 12px;
+    padding: 5px;
+}
+.rblUsuarios input
+{
+    margin: 3px;
+}
+
+#pnlCadastros
+{
+    padding: 10px;
+}
+#pnlCadastros h4
+{
+    margin-bottom: 10px;
+    color: #333;
+}
+.contInformacoe
+{
+    margin-bottom: 10px;
+}
+.contInformacoe span
+{
+    display: block;
+}
+.contInformacoe input
+{
+    padding: 3px;
+    border: 1px solid #DDD;
+    color: #333;
+    border-radius: 5px;
+}
+.descricao
+{
+    font-size: 13px;
+    font-weight: bold;
+}
+.labels
+{
+    color: #000000;
+    font-family: Tahoma;
+    font-size: 10pt;
+}
+.contBotoes .bt
+{
+    font-size: 18px;
+    border: 1px solid #DDD;
+    width: 25%;
+    height: 44px;
+    padding: 10px;
+}
+.contBotoes .bt:hover
+{
+    background: #555;
+    color: #FFF;
+    cursor: pointer;
+}
+.btAcoes
+{
+    font-size: 18px;
+    border: 1px solid #DDD;
+    width: 28%;
+    height: 30px;
+}
+.btAcoes:hover
+{
+    background: #555;
+    color: #FFF;
+    cursor: pointer;
+}
+.none
+{
+    display: none;
+}
+

@@ -1,0 +1,64 @@
+﻿*
+{
+    padding: 0;
+    margin: 0;
+}
+.pagina
+{
+    width: 250px;
+    font-family: Arial;
+    margin: 40px auto;
+    background: #f8f8f8;
+    padding: 30px 50px 30px;
+    border: 1px solid #EEE;
+    font-size: 12px;
+}
+.paginaAcoes
+{
+    width: 450px;
+    font-size: 16px;
+    margin: 40px auto;
+     border: 2px solid #EEE;
+}
+.pagina > div
+{
+    margin-bottom: 10px;
+}
+.pagina div input
+{
+    border: 1px solid #DDD;
+    padding: 5px 0;
+}
+.pagina .cripto td
+{
+    width: 50%;
+}
+.pagina .cripto td input
+{
+    margin: 5px;
+}
+
+.pagina .contBt
+{
+    text-align: center;
+    margin: 10px;
+}
+
+.pagina .contBt .bt
+{
+    border: 1px solid #DDD;
+    width: 45%;
+    padding: 10px;
+}
+.btAcoes .contBtAcoes
+{
+    border: 1px solid #DDD;
+    width: 60%;
+    padding: 10px;
+}
+.pagina .contBt .bt:hover
+{
+    background: #555;
+    color: #FFF;
+    cursor: pointer;
+}
