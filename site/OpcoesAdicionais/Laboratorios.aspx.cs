@@ -177,7 +177,7 @@ public partial class Laboratorios : System.Web.UI.Page
         if (ConfigurationManager.AppSettings.Get("sConexaoSQL") == "1")
         {
             //Caminho para o servidor
-            caminhoPastaXml = @"C:\camarafria\ArquivosPermanentes\LabsDescarteDireto.xml";
+            caminhoPastaXml = @"C:\FreezyTrack\ArquivosPermanentes\LabsDescarteDireto.xml";
         }
 
         return caminhoPastaXml;

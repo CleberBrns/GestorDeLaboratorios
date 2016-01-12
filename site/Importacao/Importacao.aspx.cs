@@ -71,7 +71,7 @@ public partial class Importacao_Importacao : System.Web.UI.Page
                 //Caminho local
                 //string caminhoDestino = Server.MapPath("/ArquivosTemp/");
                 //Caminho para o servidor
-                string caminhoDestino = @"C:\camarafria\ArquivosTemp\";
+                string caminhoDestino = @"C:\FreezyTrack\ArquivosTemp\";
 
                 if (Directory.Exists(caminhoDestino))
                 {

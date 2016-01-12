@@ -158,7 +158,7 @@ public partial class Acoes_Saida : System.Web.UI.Page
         if (ConfigurationManager.AppSettings.Get("CaminhoPastaXMLLabsDD") == "1")
         {
             //Caminho para o servidor
-            caminhoPastaXml = @"C:\camarafria\ArquivosPermanentes\LabsDescarteDireto.xml";
+            caminhoPastaXml = @"C:\FreezyTrack\ArquivosPermanentes\LabsDescarteDireto.xml";
         }
 
         return caminhoPastaXml;
